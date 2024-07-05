@@ -13,7 +13,7 @@ body {
   width: 100%;
 }
 
-.logoInicio{
+.logoInicio {
   height: 35px !important;
 }
 
@@ -161,11 +161,11 @@ body {
 }
 
 .firstText {
-  color: rgb(7, 29, 61) !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 .textIdentificador {
-  color: rgb(17, 64, 134) !important;
+  color: rgb(7, 29, 61) !important;
 }
 
 .contadorLugar {
@@ -173,7 +173,7 @@ body {
 }
 
 .contadorNum {
-  color: rgb(17, 64, 134);
+  color: rgb(0, 0, 0);
 }
 
 .btnCotizacion {
@@ -185,9 +185,9 @@ body {
   transition: 0.3s ease-in-out;
 }
 .btnCotizacion:hover {
-  background-color: rgb(10, 41, 87);
+  background-color: rgb(37, 102, 200);
   transition: 0.3s ease-in-out;
-  box-shadow: 3px 3px 10px rgb(7, 29, 61);
+  box-shadow: 3px 3px 10px rgb(37, 102, 200);
 }
 
 .imgBox {
@@ -199,14 +199,14 @@ body {
 }
 
 .btnCustomContact {
-  background-color: rgb(17, 64, 134) !important;
+  background-color: rgb(17, 64, 134);
   color: white !important;
   transition: 0.3s ease-in-out !important;
 }
 .btnCustomContact:hover {
-  background-color: rgb(38, 108, 213) !important;
-  transition: 0.3s ease-in-out !important;
-  box-shadow: 3px 3px 10px rgb(38, 108, 213) !important;
+  background-color: rgb(37, 102, 200);
+  transition: 0.3s ease-in-out;
+  box-shadow: 3px 3px 10px rgb(37, 102, 200);
 }
 
 .porque {
@@ -249,6 +249,14 @@ body {
   position: absolute;
   margin-top: -42px;
   margin-left: -37px;
+  height: 75px;
+  width: 75px;
+}
+
+.imgCard2 {
+  position: absolute;
+  margin-top: -42px;
+  margin-left: 0px;
   height: 75px;
   width: 75px;
 }
