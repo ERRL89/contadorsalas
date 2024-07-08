@@ -13,11 +13,11 @@
 <body>
     <?php require "header.php"; ?>
 
-    <main>
+    <main class="p-3">
         <!-- -- TITULOS Y CAROUSEL DE IMAGENES ------- -->
         <section class="p-3">
             <div class="row align-items-center mb-5 carouselContainer">
-                <div class="col-md-6 mb-2 container-fluid align-items-center carouselText">
+                <div class="col-md-6 container-fluid align-items-center carouselText">
                     <h1 class="fs-3 title2"><b>Salas Salazar & Asociados: Despacho Contable, Fiscal y Administrativo para todo México.</b></h1>
                     <h2 class="fs-5 mb-3 title1">Optimiza tu Gestión Empresarial con Nuestros Servicios Profesionales.</h2>
                     <span class="firstText">Con más de 20 años de experiencia, en Salas Salazar & Asociados nos especializamos en proporcionar estrategias avanzadas de optimización fiscal, defensa legal ante autoridades fiscales, y consultoría personalizada en estructuras tributarias. Nuestro compromiso es garantizar eficiencia operativa y seguridad jurídica para nuestros clientes en cada aspecto de su gestión empresarial.</span>
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <!-- Carousel de imagenes -->
-                <div class="col-md-6 mb-2 p-2">
+                <div class="border col-md-6 p-2">
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner imgBox">
                             <div class="carousel-item active">
@@ -67,7 +67,7 @@
         </section>
 
         <!-- -- IDENTIFICADORES DE NEGOCIO ------- -->
-        <div class=" p-4 bg-body-tertiary">
+        <section class="border p-3 bg-body-tertiary">
             <center><h4 class="fw-bold fs-3 mb-5 firstText">¿PORQUE DEBERÍAS CONTRATARNOS?</h4></center>
             <div class="container d-flex justify-content-center align-items-center lineMargin">
                 <div class="lineSection"></div>
@@ -127,17 +127,17 @@
                         </div>
                     </div>
             </section><br><br><br>
-        </div>
+        </section>
 
         <!-- -- QUIENES SOMOS ------- -->
-        <section id="nosotros">
-            <div class="row align-items-center carouselContainer">
-                <div class="col-md-6 mb-2 text-center">
+        <section id="nosotros" class="border">
+            <div class="row align-items-center p-3">
+                <div class="col-md-6 text-center">
                     <img class="img-fluid" src="images/beneficios.svg" alt="">
                 </div>
-                <div class="col-md-6 mb-2 p-5 container-fluid align-items-center carouselText">
-                    <span class="fs-3 mb-5 title2"><strong>¿QUIÉNES SOMOS?</strong></span><br><br>
-                    <span class="firstText mt-4">En Salas Salazar y Asociados, nuestra misión es proporcionar soluciones integrales en contabilidad, fiscalidad y gestión administrativa que permitan a nuestros clientes reducir cargas operativas, cumplir con normativas legales y optimizar sus recursos. Nos comprometemos a ofrecer un servicio profesional y personalizado, enfocado en ayudar a las empresas a alcanzar sus objetivos financieros y de negocio de manera eficiente y efectiva.<br><br>Nuestra visión, ser el despacho contable y fiscal líder en la región, reconocido por nuestra excelencia en el servicio, innovación en soluciones empresariales y compromiso con el éxito de nuestros clientes. Aspiramos a convertirnos en un aliado estratégico de las empresas, facilitando su crecimiento sostenible y contribuyendo al desarrollo económico local.</span><br><br>
+                <div class="border col-md-6">
+                    <span class="fs-3 mb-5 title2 border"><strong>¿QUIÉNES SOMOS?</strong></span><br><br>
+                    <span class="firstText mt-4 border">En Salas Salazar y Asociados, nuestra misión es proporcionar soluciones integrales en contabilidad, fiscalidad y gestión administrativa que permitan a nuestros clientes reducir cargas operativas, cumplir con normativas legales y optimizar sus recursos. Nos comprometemos a ofrecer un servicio profesional y personalizado, enfocado en ayudar a las empresas a alcanzar sus objetivos financieros y de negocio de manera eficiente y efectiva.<br><br>Nuestra visión, ser el despacho contable y fiscal líder en la región, reconocido por nuestra excelencia en el servicio, innovación en soluciones empresariales y compromiso con el éxito de nuestros clientes. Aspiramos a convertirnos en un aliado estratégico de las empresas, facilitando su crecimiento sostenible y contribuyendo al desarrollo económico local.</span><br><br>
                      <!-- Boton de contáctanos -->
                      <div class="mt-4 row container-fluid btnCotizacionContainer">
                         <a href="#kit"><button class="btnCotizacion col-sm-6 mb-2 fw-bold fs-5">¡ Contáctanos hoy mismo !</button></a>
@@ -147,8 +147,8 @@
         </section>
 
         <!-- -- NUESTROS SERVICIOS ------- -->
-        <div class=" p-4 bg-body-tertiary">
-            <center><h4 class="fw-bold fs-3 mb-5 firstText">NUESTROS SERVICIOS</h4></center>
+        <section class="p-3 bg-body-tertiary border">
+            <center><h4 class="border fw-bold fs-3 mb-5 firstText">NUESTROS SERVICIOS</h4></center>
             <div class="container d-flex justify-content-center align-items-center lineMargin">
                 <div class="lineSection"></div>
             </div>
@@ -167,7 +167,7 @@
                         </div>
                     </div>
             </section><br><br><br>
-        </div>
+        </section>
 
         
                    
