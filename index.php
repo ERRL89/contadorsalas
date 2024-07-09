@@ -155,7 +155,7 @@
             <!-- -- SUSCRIPCION IDENTIFICADORES OPCION 2 ------ -->
             <div id="identificadores1">
                     <div class="containerCards mt-5">    
-                        <!-- -- IDENTIFICADOR 1 ------ -->
+                        <!-- -- SERVICIO 1 ------ -->
                         <div id="contabilidadImpuestos" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/1.svg" alt="">
@@ -169,7 +169,7 @@
                                         <li class="mt-2">Cumplimiento Normativo</li>
                                         <li class="mt-2">Optimización Fiscal</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,%20me%20pudiera%20brindar%20mayor%20información%20acerca%20de%20su%20servicio%20de%20Contabilidad%20e%20Impuestos." target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -177,7 +177,7 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 2 ------ -->
+                        <!-- -- SERVICIO 2 2 ------ -->
                         <div id="defensaFiscal" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/2.svg" alt="">
@@ -185,7 +185,7 @@
                                     <p class="fs-5 firstText"><strong>Defensa Fiscal</strong></p>
                                     <p>Mediante el diseño de una estrategia jurídico-fiscal integral, defendemos los intereses de nuestros clientes ante los actos emprendidos por parte de las autoridades fiscales.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
+                                        <li class="mt-4">Estrategias Jurídico-Fiscales</li>
                                         <li class="mt-2">Representación Legal</li>
                                         <li class="mt-2">Prevención y Gestión de Controversias</li>
                                         <li class="mt-2">Asesoría Especializada</li>
@@ -198,7 +198,7 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 3 ------ -->
+                        <!-- -- SERVICIO 3 ------ -->
                         <div id="planeacion" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/3.svg" alt="">
@@ -206,10 +206,10 @@
                                     <p class="fs-5 firstText"><strong>Planeación y Asesoria Fiscal</strong></p>
                                     <p>Nuestro equipo de contadores y abogados fiscalistas diseña estructuras tributarias óptimas para nuestros clientes, basadas en la legislación fiscal vigente e incorporándolas a su modelo de negocio.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Estructuras Tributarias Óptimas</li>
+                                        <li class="mt-2">Legislación Vigente</li>
+                                        <li class="mt-2">Integración con tu Modelo de Negocio</li>
+                                        <li class="mt-2">Equipo Especializado</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -219,7 +219,7 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 4 ------ -->
+                        <!-- -- SERVICIO 4 ------ -->
                         <div id="maquilaNomina" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/4.svg" alt="">
@@ -227,10 +227,10 @@
                                     <p class="fs-5 firstText"><strong>Maquila de Nómina</strong></p>
                                     <p>Optimiza tu tiempo y recursos con nuestros servicios de maquila de nómina, delega la gestión de la nómina a los expertos. Aseguramos el cumplimiento normativo y eficiencia en el pago al personal.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Reducción de Carga Administrativa</li>
+                                        <li class="mt-2">Cumplimiento Legal Asegurado</li>
+                                        <li class="mt-2">Mejora en la Precisión y Puntualidad</li>
+                                        <li class="mt-2">Acceso a Tecnología Avanzada</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -240,18 +240,17 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 5 ------ -->
+                        <!-- -- SERVICIO 5 ------ -->
                         <div id="absorcion" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/5.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>Absorción del área fiscal</strong></p>
-                                    <p>Profesionales actualizados con los que contamos, a fin de que seamos nosotros quienes determinemos los impuestos de sus empresas y así, el contribuyente pueda salir al corriente en sus obligaciones fiscales sin necesidad de un departamento fiscal propio.</p>
+                                    <p>Contamos con profesionales actualizados que determinan los impuestos de tu empresa, asegurando que cumplas con tus obligaciones fiscales de manera eficiente y sin la necesidad de mantener un departamento fiscal propio.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Reducción de Costos Operativos</li>
+                                        <li class="mt-2">Enfoque en el Core Business</li>
+                                        <li class="mt-2">Adaptabilidad y Flexibilidad</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -261,18 +260,18 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 6 ------ -->
+                        <!-- -- SERVICIO 6 ------ -->
                         <div id="rh" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/2.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>RH y suministro de personal</strong></p>
-                                    <p>Suministro de personal contratado directamente por nuestra empresa.</p>
+                                    <p>Ofrecemos un servicio de suministro de personal contratado directamente por nuestra empresa, garantizando que los empleados seleccionados cumplan con los estándares de calidad y competencia requeridos por su organización.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Contratación Directa</li>
+                                        <li class="mt-2">Reclutamiento y Selección</li>
+                                        <li class="mt-2">Evaluación Integral</li>
+                                        <li class="mt-2">Reducción de Carga Administrativa</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -282,18 +281,18 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 7 ------ -->
+                        <!-- -- SERVICIO 7 ------ -->
                         <div id="nominas" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/1.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>Nóminas y Seguridad Social</strong></p>
-                                    <p>Mediante el diseño de una estrategia jurídico-fiscal integral, defendemos los intereses de nuestros clientes ante los actos emprendidos por parte de las autoridades fiscales.</p>
+                                    <p>Nos especializamos en el cálculo preciso de nóminas y gestión eficiente de cuotas obrero-patronales ante el IMSS, ofreciendo tranquilidad laboral a nuestros clientes.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Cálculo y Elaboración de Nóminas</li>
+                                        <li class="mt-2">Dispersión y Timbrado de Nóminas</li>
+                                        <li class="mt-2">Cálculo de Cuotas Obrero-Patronales</li>
+                                        <li class="mt-2">Asesoría Legal en Despidos</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -303,18 +302,18 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 8 ------ -->
+                        <!-- -- SERVICIO 8 ------ -->
                         <div id="soporte" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/2.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>Soporte administrativo</strong></p>
-                                    <p>Mediante el diseño de una estrategia jurídico-fiscal integral, defendemos los intereses de nuestros clientes ante los actos emprendidos por parte de las autoridades fiscales.</p>
+                                    <p>Gestión integral de facturación, cuentas por cobrar, compras, cuentas por pagar, domicilio fiscal y control de inventarios, garantizando una administración eficiente y conforme a las regulaciones vigentes.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Facturación y cuentas por cobrar </li>
+                                        <li class="mt-2">Compras y cuentas por pagar</li>
+                                        <li class="mt-2">Domicilio fiscal</li>
+                                        <li class="mt-2">Control de inventarios</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -324,18 +323,18 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 9 ------ -->
+                        <!-- -- SERVICIO 9 ------ -->
                         <div id="repse" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/3.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>Trámite y renovación REPSE</strong></p>
-                                    <p>Mediante el diseño de una estrategia jurídico-fiscal integral, defendemos los intereses de nuestros clientes ante los actos emprendidos por parte de las autoridades fiscales.</p>
+                                    <p>Facilitamos el trámite y renovación de REPSE junto con el envío de informática ICSOE y SISUB, asegurando cumplimiento normativo y eficiencia en procesos administrativos clave para tu negocio.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Gestión Integral</li>
+                                        <li class="mt-2">Cumplimiento Normativo</li>
+                                        <li class="mt-2">Eficiencia en Envío de Informática</li>
+                                        <li class="mt-2">Asesoría Especializada</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
@@ -345,18 +344,17 @@
                             </div>
                         </div>
 
-                        <!-- -- IDENTIFICADOR 10 ------ -->
+                        <!-- -- SERVICIO 10 ------ -->
                         <div id="empresas" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/4.svg" alt="">
                                 <div class="mt-5 containerCardText p-2">
                                     <p class="fs-5 firstText"><strong>Constitución de empresas</strong></p>
-                                    <p>Mediante el diseño de una estrategia jurídico-fiscal integral, defendemos los intereses de nuestros clientes ante los actos emprendidos por parte de las autoridades fiscales.</p>
+                                    <p>Nos especializamos en la constitución de empresas y altas fiscales ante el SAT e IMSS, facilitando el inicio de operaciones empresariales cumpliendo con todos los requisitos legales.</p>
                                     <ul>
-                                        <li class="mt-4">Estrategias Jurídico-Fiscales Integrales</li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
-                                        <li class="mt-2"></li>
+                                        <li class="mt-4">Asesoría en Constitución</li>
+                                        <li class="mt-2">Registro ante SAT</li>
+                                        <li class="mt-2">Alta ante IMSS</li>
                                     </ul>
                                     <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
