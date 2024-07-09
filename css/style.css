@@ -241,6 +241,50 @@ body {
   transition: 0.3s ease-in-out;
 }
 
+.containerCard2 {
+  position: relative;
+  height: 485px !important;
+  width: 335px !important;
+  border: 1px solid #ffffff;
+  padding: 5px 10px !important;
+  background-color: rgb(255, 255, 255) !important;
+  box-shadow: 7px 7px 10px rgba(37, 102, 200, 0.1), -2px -2px 10px rgba(37, 102, 200, 0.1);
+  transition: 0.3s ease-in-out;
+}
+
+.containerCard2:hover2 {
+  border: 1px solid #ffffff;
+  box-shadow: 7px 7px 10px rgba(7, 29, 61, 0.2), -2px -2px 10px rgba(7, 29, 61, 0.2);
+  transition: 0.3s ease-in-out;
+}
+
+.conocerMas {
+  position: absolute;
+  left: 0 !important;
+  bottom: 0 !important;
+  width: 100%;
+  margin-top: 40px !important;
+  background-color: rgba(237, 237, 237, 0.5);
+  border: 1px solid rgba(37, 102, 200, 0.05);
+  text-decoration: none !important;
+  transition: 0.3s ease-in-out;
+}
+.conocerMas:hover {
+  background-color: rgba(237, 237, 237, 0.802);
+  transition: 0.3s ease-in-out;
+}
+
+.conocerMasText {
+  font-size: 1.1rem !important;
+  letter-spacing: 1px !important;
+  text-decoration: none !important;
+}
+
+.conocerMasTextLink {
+  text-decoration: none !important;
+  color: black !important;
+}
+
 .textIdentificador {
   font-size: 0.9rem;
 }
