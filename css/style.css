@@ -248,13 +248,12 @@ body {
   border: 1px solid #ffffff;
   padding: 5px 10px !important;
   background-color: rgb(255, 255, 255) !important;
-  box-shadow: 7px 7px 10px rgba(37, 102, 200, 0.1), -2px -2px 10px rgba(37, 102, 200, 0.1);
+  box-shadow: 7px 7px 10px rgba(37, 102, 200, 0.05), -2px -2px 10px rgba(37, 102, 200, 0.05);
   transition: 0.3s ease-in-out;
 }
-
-.containerCard2:hover2 {
+.containerCard2:hover {
   border: 1px solid #ffffff;
-  box-shadow: 7px 7px 10px rgba(7, 29, 61, 0.2), -2px -2px 10px rgba(7, 29, 61, 0.2);
+  box-shadow: 10px 10px 15px rgba(32, 107, 220, 0.1), -10px -10px 15px rgba(32, 107, 220, 0.1) !important;
   transition: 0.3s ease-in-out;
 }
 
