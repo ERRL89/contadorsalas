@@ -199,6 +199,7 @@ body {
 
 .btnCotizacion{
     height: 50px !important;
+    width: 70% !important;
     border-radius: 10px !important;
     background-color: rgb(17, 64, 134);
     border: none;
@@ -208,6 +209,24 @@ body {
         background-color: rgb(37, 102, 200);
         transition: .3s ease-in-out;
         box-shadow: 3px 3px 10px rgb(37, 102, 200);
+    }
+}
+
+@media screen and (max-width:480px) {
+    .btnCotizacion{
+        height: 50px !important;
+        width: auto !important;
+        padding: 0px 20px !important;
+        border-radius: 10px !important;
+        background-color: rgb(17, 64, 134);
+        border: none;
+        color: #ffffff !important;
+        transition: .3s ease-in-out;
+        &:hover{
+            background-color: rgb(37, 102, 200);
+            transition: .3s ease-in-out;
+            box-shadow: 3px 3px 10px rgb(37, 102, 200);
+        }
     }
 }
 
@@ -239,7 +258,7 @@ body {
 .containerCards{
     margin-top: 75px !important;
     position: relative;
-    width: 95%;
+    width: 100% !important;
     display: flex !important;
     justify-content: center;
     align-items: center;
