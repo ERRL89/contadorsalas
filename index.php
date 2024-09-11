@@ -13,7 +13,7 @@
 <body>
     <?php require "header.php"; ?>
 
-    <main class="p-3">
+    <main class="p-2">
         <!-- -- TITULOS Y CAROUSEL DE IMAGENES ------- -->
         <section class="p-3">
             <div class="row align-items-center mb-5 carouselContainer">
@@ -37,8 +37,9 @@
                         </div>
                     </div>
                     <!-- Boton de contáctanos -->
-                    <div class="mt-4 row container-fluid btnCotizacionContainer">
-                        <a href="#kit"><button class="btnCotizacion col-sm-6 mb-2 fw-bold fs-5">¡ Contáctanos hoy mismo !</button></a>
+                    <div class="mt-4 row container">
+                        <a href="https://wa.me/5218116310073/?text=Hola, me pudiera proporcionar mas informacion acerca de sus servicios"
+                        target="_blank"><button class="btnCotizacion col-sm-6 mb-2 fw-bold fs-5">¡ Contáctanos hoy mismo !</button></a>
                     </div>
                 </div>
                 <!-- Carousel de imagenes -->
@@ -67,14 +68,14 @@
         </section>
 
         <!-- -- IDENTIFICADORES DE NEGOCIO ------- -->
-        <section class="p-3 bg-body-tertiary">
-            <center><h4 class="fw-bold fs-3 mb-5 firstText">¿PORQUE DEBERÍAS CONTRATARNOS?</h4></center>
+        <section class="p-3 bg-body-tertiary text-center">
+            <center><h4 class="fw-bold fs-3 firstText">¿PORQUE DEBERÍAS CONTRATARNOS?</h4></center>
             <div class="container d-flex justify-content-center align-items-center lineMargin">
                 <div class="lineSection"></div>
             </div>
             <!-- -- SUSCRIPCION IDENTIFICADORES OPCION 2 ------ -->
-            <section id="identificadores1">
-                    <div class="containerCards mt-5">    
+            <div id="identificadores1">
+                    <div class="containerCards">    
                         <!-- -- IDENTIFICADOR 1 ------ -->
                         <div id="europa" class="container1">
                             <div class="containerCard text-center">
@@ -126,29 +127,31 @@
                             </div>
                         </div>
                     </div>
-            </section><br><br><br>
+            </div><br><br><br>
         </section>
 
         <!-- -- QUIENES SOMOS ------- -->
         <section id="nosotros">
             <div class="row align-items-center p-3">
-                <div class="col-md-6 text-center">
+                <div class="col-md-6 text-center mb-3">
                     <img class="img-fluid" src="images/beneficios.svg" alt="">
                 </div>
                 <div class="col-md-6">
-                    <span class="fs-3 mb-5 title2"><strong>¿QUIÉNES SOMOS?</strong></span><br><br>
-                    <span class="firstText mt-4">En Salas Salazar y Asociados, nuestra misión es proporcionar soluciones integrales en contabilidad, fiscalidad y gestión administrativa que permitan a nuestros clientes reducir cargas operativas, cumplir con normativas legales y optimizar sus recursos. Nos comprometemos a ofrecer un servicio profesional y personalizado, enfocado en ayudar a las empresas a alcanzar sus objetivos financieros y de negocio de manera eficiente y efectiva.<br><br>Nuestra visión, ser el despacho contable y fiscal líder en la región, reconocido por nuestra excelencia en el servicio, innovación en soluciones empresariales y compromiso con el éxito de nuestros clientes. Aspiramos a convertirnos en un aliado estratégico de las empresas, facilitando su crecimiento sostenible y contribuyendo al desarrollo económico local.</span><br><br>
+                    <span class="fs-3 mb-5 mt-3 title2"><strong>¿QUIÉNES SOMOS?</strong></span><br><br>
+                    <span class="firstText mt-4">En Salas Salazar y Asociados, <b>nuestra misión</b> es proporcionar soluciones integrales en contabilidad, fiscalidad y gestión administrativa que permitan a nuestros clientes reducir cargas operativas, cumplir con normativas legales y optimizar sus recursos. Nos comprometemos a ofrecer un servicio profesional y personalizado, enfocado en ayudar a las empresas a alcanzar sus objetivos financieros y de negocio de manera eficiente y efectiva.<br><br><b>Nuestra visión</b>, ser el despacho contable y fiscal líder en la región, reconocido por nuestra excelencia en el servicio, innovación en soluciones empresariales y compromiso con el éxito de nuestros clientes. Aspiramos a convertirnos en un aliado estratégico de las empresas, facilitando su crecimiento sostenible y contribuyendo al desarrollo económico local.</span><br><br>
                      <!-- Boton de contáctanos -->
                      <div class="mt-4 row container-fluid btnCotizacionContainer">
-                        <a href="#kit"><button class="btnCotizacion col-sm-6 mb-2 fw-bold fs-5">¡ Contáctanos hoy mismo !</button></a>
+                        <a href="https://wa.me/5218116310073/?text=Hola, me pudiera proporcionar mas informacion acerca de sus servicios"
+                        target="_blank"><button class="btnCotizacion col-sm-6 mb-2 fw-bold fs-5">¡ Contáctanos hoy mismo !</button></a>
                     </div>
                 </div>
             </div>
         </section>
 
         <!-- -- NUESTROS SERVICIOS ------- -->
-        <section class="p-3 bg-body-tertiary">
-            <center><h4 class="fw-bold fs-3 mb-5 mt-3 firstText">NUESTROS SERVICIOS</h4></center>
+        <section class="bg-body-tertiary">
+            <br>
+            <center><h4 class="fw-bold fs-3 firstText">NUESTROS SERVICIOS</h4></center>
             <div class="container d-flex justify-content-center align-items-center lineMargin">
                 <div class="lineSection"></div>
             </div>
@@ -177,7 +180,7 @@
                             </div>
                         </div>
 
-                        <!-- -- SERVICIO 2 2 ------ -->
+                        <!-- -- SERVICIO 2 ------ -->
                         <div id="defensaFiscal" class="container1">
                             <div class="containerCard2 text-start">
                                 <img class="imgCard2" src="./images/identificadores/2.svg" alt="">
@@ -190,7 +193,7 @@
                                         <li class="mt-2">Prevención y Gestión de Controversias</li>
                                         <li class="mt-2">Asesoría Especializada</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Defensa Fiscal" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -211,7 +214,7 @@
                                         <li class="mt-2">Integración con tu Modelo de Negocio</li>
                                         <li class="mt-2">Equipo Especializado</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Planeación y Asesoria Fiscal" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -232,7 +235,7 @@
                                         <li class="mt-2">Mejora en la Precisión y Puntualidad</li>
                                         <li class="mt-2">Acceso a Tecnología Avanzada</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Maquila de Nómina" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -252,7 +255,7 @@
                                         <li class="mt-2">Enfoque en el Core Business</li>
                                         <li class="mt-2">Adaptabilidad y Flexibilidad</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Absorción del Área Fiscal" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -273,7 +276,7 @@
                                         <li class="mt-2">Evaluación Integral</li>
                                         <li class="mt-2">Reducción de Carga Administrativa</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de RH y Suministro de Personal" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -294,7 +297,7 @@
                                         <li class="mt-2">Cálculo de Cuotas Obrero-Patronales</li>
                                         <li class="mt-2">Asesoría Legal en Despidos</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Nóminas y Seguridad Social" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -315,7 +318,7 @@
                                         <li class="mt-2">Domicilio fiscal</li>
                                         <li class="mt-2">Control de inventarios</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Soporte Administrativo" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -336,7 +339,7 @@
                                         <li class="mt-2">Eficiencia en Envío de Informática</li>
                                         <li class="mt-2">Asesoría Especializada</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Trámite y Renovación REPSE" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -356,7 +359,7 @@
                                         <li class="mt-2">Registro ante SAT</li>
                                         <li class="mt-2">Alta ante IMSS</li>
                                     </ul>
-                                    <a class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
+                                    <a href="https://wa.me/5218116310073?text=Hola,me pudiera brindar mayor informacion acerca de su servicio de Constitución de Empresas" target="_blank" class="conocerMasTextLink" href=""><div class="p-2 conocerMas d-flex justify-content-center align-items-center">
                                         <span class="conocerMasText px-2">Conocer más</span>
                                         <ion-icon name="arrow-forward-outline"></ion-icon>
                                     </div></a>
@@ -367,10 +370,6 @@
                     </div>
             </div><br><br><br>
         </section>
-
-        
-                   
-        
     </main>
     
     <?php require "footer.php"; ?>
