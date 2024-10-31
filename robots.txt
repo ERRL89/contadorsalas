@@ -1,0 +1,7 @@
+# Permitir acceso a todos los motores de búsqueda
+User-agent: *
+Disallow:
+
+# Opcional: Bloquear acceso a una carpeta específica
+# User-agent: *
+# Disallow: /private/

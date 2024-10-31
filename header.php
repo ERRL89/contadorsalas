@@ -8,23 +8,26 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                    <a class="nav-link" aria-current="page" href="#nosotros">Nosotros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Nosotros</a>
+                    <a class="nav-link" href="#porque">¿Por qué elegirnos?</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Servicios</a>
+                    <a class="nav-link" href="#misionVision">Misión y Visión</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contacto</a>
+                    <a class="nav-link" href="#servicios">Servicios</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contacto">Contacto</a>
                 </li>
             </ul>
-            <a href="https://wa.me/5218116310073" target="_blank">
-                <div class="btn btnCustomContact">
-                    <span>Contáctanos</span>
-                </div>
-            </a>
+                <a href="https://wa.me/5218116310073" target="_blank" >
+                    <div class="btn btnCustomContact">
+                        <span>Contáctanos</span>
+                    </div>
+                </a>
             </div>
         </div>
     </nav>

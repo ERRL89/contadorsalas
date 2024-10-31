@@ -6,7 +6,7 @@
     <meta name="robots" content="index, all, follow">
     
    <!-- Descripcion debe de ser de 150 a 160 caracteres -->
-    <meta name="description" content="Salas Salazar y Asociados: Despacho contable, fiscal y administrativo. Especializados en estrategias fiscales, defensa fiscal, planeación tributaria y maquila de nómina.">
+   <meta name="description" content="Despacho contable, fiscal y administrativo en México. Salas Salazar ofrece estrategias fiscales, defensa fiscal, planeación tributaria y maquila de nómina.">
     <meta itemprop="telephone" content="8116310073">
 
      <!-- Palabras clave relacionadas al servicio -->
